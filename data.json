@@ -1,0 +1,45 @@
+{
+  "colour_scheme": "light",
+  "tickets": [
+    {
+      "title": "Improve styles",
+      "reporter": 1,
+      "body": "I've been thinking lately I'd like to improve the styles.",
+      "priority": 1,
+      "assignee": 1,
+      "due_by": "23 March",
+    },
+    {
+      "title": "Improve functionality",
+      "reporter": 1,
+      "body": "I've been thinking lately I'd like to improve the functionality.",
+      "priority": 2,
+      "assignee": 1,
+      "due_by": "30 March",
+    },
+    {
+      "title": "Improve speed",
+      "reporter": 2,
+      "body": "I've been thinking lately I'd like to improve the speed.",
+      "priority": 3,
+      "assignee": 1,
+      "due_by": "1 April",
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "title": "Mr",
+      "first_name": "Nicholas",
+      "last_name": "Booth",
+      "role": "Software Developer",
+    },
+    {
+      "id": 2,
+      "title": "Mr",
+      "first_name": "Richard",
+      "last_name": "Booth",
+      "role": "Web Developer"
+    }
+  ]
+}
